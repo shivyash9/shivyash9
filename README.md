@@ -1,6 +1,7 @@
-### (नमस्ते) Hi there, I'm Yash Tiwari - [shivyash9] 🙏
+### (नमस्ते) Hi there, I'm Yash Tiwari - [shivyash9] 
 
 ---
+![header_](https://github.com/shivyash9/shivyash9/assets/124371346/72f07dc5-29bc-4ffd-ba77-01ac62eadf0c)
 
 <p align="center">
   <a href="mailto:tech.yashtiwari@gmail.com">
@@ -70,12 +71,10 @@ const YashTiwari = {
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Express.js-FFD43B?style=for-the-badge&logo=express&logoColor=306998)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=61DAFB)
 
 ### 🧑🏻‍💻 Tools & Platform
 
@@ -103,8 +102,8 @@ const YashTiwari = {
 ## 📈 Stats
 
 <div style="display:flex,justify-content:space-around width:100%">
-  <img style="width:48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivyash9&show_icons=true&hide_border=true&theme=dark" alt="Yash's Github Stats" />
-  <img style="width:48%" alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivyash9&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+  <img style="width:48% height: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivyash9&show_icons=true&hide_border=true&theme=dark" alt="Yash's Github Stats" />
+  <img style="width:48% height: 100%" alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivyash9&count_private=true&show_icons=true&hide_border=true&theme=dark" />
 </div>
 
 <br />
