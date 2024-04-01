@@ -99,12 +99,16 @@ const YashTiwari = {
 
 <br /> -->
 
-## 📈 Stats
+## 📊 GitHub Stats:
 
-<div style="display:flex,justify-content:space-around width:100%">
-  <img style="width:48% height: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivyash9&show_icons=true&hide_border=true&theme=dark" alt="Yash's Github Stats" />
-  <img style="width:48% height: 100%" alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shivyash9&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivyash9&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="shivyash9" />
+  
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivyash9&theme=2077" height="180em" alt="shivyash9" />
+  
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivyash9&theme=2077" height="180em" alt="shivyash9" />
 </div>
+
 
 <br />
 
