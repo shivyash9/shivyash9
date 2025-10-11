@@ -98,6 +98,67 @@ const YashTiwari = {
 
 <br />
 
+## 🛠️ Career Timeline
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 **Zomato (District)**
+**May 2025 – Present**
+
+Building scalable backend systems for the District Shopping vertical using **Go**, **PHP**, **SQL**, **AWS**, **Kafka**, and **DynamoDB**.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🎯 **Pramata**
+**Sep 2024 – May 2025**
+
+Designed scalable microservices and GenAI integrations using **Ruby on Rails**, **AWS**, and **Textract**, optimizing system cost and document intelligence.
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 **Coding Ninjas (Naukri.com)**
+**Feb 2023 – Sep 2024**
+
+Developed ML-driven lead scoring models and real-time systems using **Python**, **RoR**, and **PostgreSQL**, enhancing user experience and revenue impact.
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 📈 **Career Highlights**
+- **1+ years** of professional (non-internship) experience
+- **Scalable Systems** expertise
+- **ML/AI Integration** specialist
+- **Full-stack** development
+- **Cloud Architecture** (AWS)
+
+![Experience](https://img.shields.io/badge/Experience-3%2B_Years-00C7B7?style=for-the-badge&logo=clock&logoColor=white)
+![Architecture](https://img.shields.io/badge/Cloud_Architecture-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br />
+
 <!-- ## My Portfolio
 
 <br /> -->
