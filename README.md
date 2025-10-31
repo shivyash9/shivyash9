@@ -165,18 +165,17 @@ Developed ML-driven lead scoring models and real-time systems using **Python**, 
 
 ## 📊 GitHub Stats:
 
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivyash9&theme=2077" height="180em" alt="Repos per language"/>
     </td>
-    <td>
+    <td style="border: none; padding: 0;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivyash9&theme=2077" height="180em" alt="Profile details"/>
     </td>
   </tr>
 </table>
+
 
 <br />
 
