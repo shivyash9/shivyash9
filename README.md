@@ -1,41 +1,53 @@
-### (नमस्ते) Hi there, I'm Yash Tiwari - [ [shivyash9](https://github.com/shivyash9) / [refertoyash](https://github.com/refertoyash) ]
+<div align="center">
+
+### (नमस्ते) Hi there, I'm Yash Tiwari
+
+[shivyash9](https://github.com/shivyash9) &nbsp;·&nbsp; [refertoyash](https://github.com/refertoyash)
+
+<a href="https://github.com/shivyash9">
+  <img alt="Software Engineer · Competitive Coder" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&pause=1100&duration=3400&color=D9A552&center=true&vCenter=true&width=620&height=46&lines=Software+Engineer+%40+Zomato+%C2%B7+District;Competitive+Coder;Building+scalable+backend+systems;Go+%2F+Ruby+%2F+Python+%C2%B7+AWS+%C2%B7+Cloud" />
+</a>
+
+</div>
 
 ```python
  Restarted...... [13th May, 2025].....
 ```
----
+
+<div align="center">◆&nbsp;&nbsp;&nbsp;◆&nbsp;&nbsp;&nbsp;◆</div>
+
 ![header_](https://github.com/shivyash9/shivyash9/assets/124371346/72f07dc5-29bc-4ffd-ba77-01ac62eadf0c)
 
 <p align="center">
   <a href="mailto:tech.yashtiwari@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-	<a href="https://www.linkedin.com/in/yash-tiwari-6a1970211/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://www.codechef.com/users/shivyash9">
-		<img src="https://img.shields.io/badge/Codechef-FFD43B?style=for-the-badge&logo=codechef&logoColor=306998" />
-	</a>
-	<a href="https://codeforces.com/profile/refertoyash">
-		<img src="https://img.shields.io/badge/CodeForces-00C7B7?style=for-the-badge&logo=codeforces&logoColor=white" />
-	</a>
-	<a href="https://leetcode.com/refertoyash/">
-		<img src="https://img.shields.io/badge/LeetCode-323330?style=for-the-badge&logo=leetcode&logoColor=F7DF1E" />
-	</a>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/yash-tiwari-6a1970211/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.codechef.com/users/shivyash9">
+        <img src="https://img.shields.io/badge/Codechef-FFD43B?style=for-the-badge&logo=codechef&logoColor=306998" />
+    </a>
+    <a href="https://codeforces.com/profile/refertoyash">
+        <img src="https://img.shields.io/badge/CodeForces-00C7B7?style=for-the-badge&logo=codeforces&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/refertoyash/">
+        <img src="https://img.shields.io/badge/LeetCode-323330?style=for-the-badge&logo=leetcode&logoColor=F7DF1E" />
+    </a>
 </p>
 
----
+<div align="center">◆&nbsp;&nbsp;&nbsp;◆&nbsp;&nbsp;&nbsp;◆</div>
 
 ```javascript
 const YashTiwari = {
-  skills: ["Software Engineer", "Competitve Coder"],
+  skills: ["Software Engineer", "Competitive Coder"],
   improving: "true",
   programming: {
     languages: [
       "Javascript",
       "C",
       "C++",
-      "Java"
+      "Java",
       "Python",
       "Ruby",
       "CSS/SCSS"
@@ -159,19 +171,30 @@ Developed ML-driven lead scoring models and real-time systems using **Python**, 
 
 <br />
 
-<!-- ## My Portfolio
-
-<br /> -->
-
 ## 📊 GitHub Stats:
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivyash9&theme=2077" height="180em" alt="Repos per language"/>
-    </td>
-  </tr>
+<div align="center">
+<table width="820" cellspacing="0" cellpadding="6" style="border:none;">
+<tr><td align="center" style="border:none;">
+  <img width="100%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivyash9&theme=2077" />
+</td></tr>
+<tr><td align="center" style="border:none;">
+  <img width="100%" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivyash9&theme=2077" />
+</td></tr>
+<tr><td align="center" style="border:none;">
+  <!-- animated: line draws itself on load -->
+  <img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=shivyash9&bg_color=1a1b27&title_color=00e5ff&color=c9d1d9&line=00e5ff&point=ff2e97&area=true&area_color=00e5ff&hide_border=true&radius=8&custom_title=Contribution%20Activity" />
+</td></tr>
+<tr><td align="center" style="border:none;">
+  <!-- animated: contribution snake (activates after the workflow below runs) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivyash9/shivyash9/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivyash9/shivyash9/output/github-snake.svg" />
+    <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/shivyash9/shivyash9/output/github-snake.svg" />
+  </picture>
+</td></tr>
 </table>
+</div>
 
 
 <br />
