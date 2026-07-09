@@ -171,31 +171,43 @@ Developed ML-driven lead scoring models and real-time systems using **Python**, 
 
 <br />
 
-## 📊 GitHub Stats:
+## 📊 GitHub Analytics
 
 <div align="center">
-<table width="820" cellspacing="0" cellpadding="6" style="border:none;">
-<tr><td align="center" style="border:none;">
-  <img width="100%" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivyash9&theme=2077" />
-</td></tr>
-<tr><td align="center" style="border:none;">
-  <img width="100%" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivyash9&theme=2077" />
-</td></tr>
-<tr><td align="center" style="border:none;">
-  <!-- animated: line draws itself on load -->
-  <img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=shivyash9&bg_color=1a1b27&title_color=00e5ff&color=c9d1d9&line=00e5ff&point=ff2e97&area=true&area_color=00e5ff&hide_border=true&radius=8&custom_title=Contribution%20Activity" />
-</td></tr>
-<tr><td align="center" style="border:none;">
-  <!-- animated: contribution snake (activates after the workflow below runs) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivyash9/shivyash9/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivyash9/shivyash9/output/github-snake.svg" />
-    <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/shivyash9/shivyash9/output/github-snake.svg" />
-  </picture>
-</td></tr>
-</table>
-</div>
 
+<img
+  width="100%"
+  alt="Profile Details"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivyash9&theme=2077"
+/>
+
+<br><br><br>
+
+<img
+  width="100%"
+  alt="Contribution Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=shivyash9&bg_color=0d1117&color=8b949e&line=58a6ff&point=1f6feb&area=true&area_color=58a6ff&hide_border=true&radius=16&title_color=ffffff&custom_title=Contribution%20Activity"
+/>
+
+<br><br><br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shivyash9/shivyash9/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shivyash9/shivyash9/output/github-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/shivyash9/shivyash9/output/github-snake-dark.svg"
+  />
+</picture>
+
+</div>
 
 <br />
 
