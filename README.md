@@ -192,14 +192,6 @@ Developed ML-driven lead scoring models and real-time systems using **Python**, 
 <br><br><br>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/shivyash9/shivyash9/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/shivyash9/shivyash9/output/github-snake.svg"
-  />
   <img
     width="100%"
     alt="Contribution Snake"
